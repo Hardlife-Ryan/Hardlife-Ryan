@@ -1,4 +1,4 @@
-# ![hardlife header](https://github.com/Hardlife-Ryan/photo/blob/bc6f34fb6f815e7db5f60ee4bc658306a963c49a/%E4%BA%BA%E6%AC%8A.png)
+# ![hardlife header](https://github.com/Hardlife-Ryan/photo/blob/4727bbe11ca6d59544405f08fee8dc0e3ceb8bda/%E4%BA%BA%E6%AC%8A.png)
 
 
 <!--
