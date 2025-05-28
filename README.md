@@ -1,6 +1,9 @@
 # ![hardlife header](https://github.com/Hardlife-Ryan/photo/blob/4727bbe11ca6d59544405f08fee8dc0e3ceb8bda/%E4%BA%BA%E6%AC%8A.png)
 
-
+</p>
+Hi! I'm Hardlife (Ryan TENG) and I graduated from a Japanese University, majoring in International Relations. 
+A few years ago, I created a photography account. If u are interested, welcome to follow. 
+<a href="https://www.instagram.com/hardlife_photo_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <!--
 **Hardlife-Ryan/Hardlife-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
